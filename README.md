@@ -1,111 +1,66 @@
 <p align="center">
-  <img src="https://github.com/SarfarazAbbas3/SarfarazAbbas3/blob/pak/baner.png" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A192F&height=200&section=header&text=Sarfaraz%20Abbas&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%24+whoami;Sarfaraz+Abbas;Software+Engineer+%7C+MERN+Stack+Developer;Cyber+Security+Enthusiast;Building+Secure+Digital+Experiences" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%24+Initializing+3D+Cyber+Environment...;%24+Loading+Security+Protocols...;%24+User:+Sarfaraz+Abbas;%24+Role:+Cyber+Security+Researcher;Welcome+to+My+Digital+Lab" />
 </p>
 
-<div align="center">
+---
+
+## 🧠 ⚡ Neural Core System (Live Stats)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarfarazabbas3&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarfarazabbas3&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F7FF&title_color=00F7FF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarfarazabbas3&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF" height="180"/>
+</p>
+
+---
+
+## 🌐 🧬 Cyber Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfarazabbas3&theme=tokyo-night&area=true&color=00F7FF&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🛠️ ⚔️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,python,php,docker,aws,firebase,linux,bash,git,github,figma&theme=dark" />
+</p>
+
+---
+
+## 🐍 ⚡ Cyber Snake (AI Stream)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SarfarazAbbas3/SarfarazAbbas3/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💀 🔐 System Terminal (3D Animated Feel)
 
 ```bash
-┌──(sarfaraz㉿github)-[~/profile]
-└─$ whoami
-Sarfaraz Abbas
+┌──(sarfaraz㉿cyber-lab)-[~/system]
+└─$ sudo access --level root
 
-┌──(sarfaraz㉿github)-[~/profile]
-└─$ skills
-MERN Stack • Cyber Security • Networking • Python
+> INITIALIZING SECURITY CORE...
+> STATUS: ACTIVE 🟢
+> USER: Sarfaraz Abbas
+> ROLE: Cyber Security Researcher
+> UNIVERSITY: NED University
+> STACK: MERN + Cloud + DevSecOps
 
-┌──(sarfaraz㉿github)-[~/profile]
-└─$ status
-Building secure digital experiences
-```
+> MISSION:
+> ▸ Building Secure Systems
+> ▸ Ethical Hacking
+> ▸ Digital Defense Architecture
 
-</div>
-
-<h1 align="center">Hi 👋, I'm Sarfaraz Abbas</h1>
-<h3 align="center">Passionate Software Engineer from Pakistan 🇵🇰</h3>
-
-<p align="center">
-  <img width="420" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber-Security-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN-Stack-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NED-University-00F7FF?style=for-the-badge" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 Student at **NED University**
-- 💻 Building modern applications with **MERN Stack**
-- 🔐 Interested in **Cyber Security, Networking, Linux, and Security Research**
-- 🌱 Currently learning **MUI, TypeScript, Python**
-- 📫 **info.sarfarazabbas@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/sarfarazabbas03"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://linkedin.com/in/sarfaraz-abbas-977a47b7"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.facebook.com/Sarfaraz.abbas03"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://instagram.com/sarfaraz_abas"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.behance.net/sarfarazabbas"><img src="https://skillicons.dev/icons?i=figma" /></a>
-</p>
-
----
-
-## ⚒️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,html,css,python,php,docker,firebase,git,github,figma,aws,bash,linux" />
-</p>
-
----
-
-## 🔐 Cyber Security Focus
-
-```bash
-networking
-linux
-web-security
-security-research
-automation
-```
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarfarazabbas3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazabbas3&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarfarazabbas3&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarfarazabbas3&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SarfarazAbbas3/SarfarazAbbas3/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarfarazabbas3&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-</p>
+> SYSTEM READY 🚀
