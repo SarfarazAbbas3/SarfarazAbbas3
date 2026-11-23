@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="Skills ticker">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="0.08" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="0.92" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="64" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="63" rx="12" fill="none" stroke="#38bdf8" stroke-opacity="0.25"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18" fill="#38bdf8">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1900 0" dur="34s" repeatCount="indefinite"/>
+      <text x="20" y="39" textLength="1860" lengthAdjust="spacing">MERN  ◆  NEXT.JS  ◆  PYTHON  ◆  DEVSECOPS  ◆  AWS  ◆  DOCKER  ◆  PENETRATION TESTING  ◆  OWASP TOP 10  ◆  THREAT MODELING  ◆  BURP SUITE  ◆  NMAP  ◆  KALI LINUX  ◆  AI SECURITY  ◆</text>
+      <text x="1920" y="39" textLength="1860" lengthAdjust="spacing">MERN  ◆  NEXT.JS  ◆  PYTHON  ◆  DEVSECOPS  ◆  AWS  ◆  DOCKER  ◆  PENETRATION TESTING  ◆  OWASP TOP 10  ◆  THREAT MODELING  ◆  BURP SUITE  ◆  NMAP  ◆  KALI LINUX  ◆  AI SECURITY  ◆</text>
+    </g>
+  </g>
+  <rect width="1200" height="64" rx="12" fill="url(#fade)"/>
+</svg>
