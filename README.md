@@ -124,20 +124,23 @@ SarfarazAI.new.mission
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarfarazabbas3&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="https://img.shields.io/github/followers/sarfarazabbas3?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F7FF&labelColor=0A192F" />
+  <img src="https://img.shields.io/github/stars/sarfarazabbas3?style=for-the-badge&logo=github&label=STARS&color=ff2e63&labelColor=0A192F&affiliations=OWNER" />
+  <img src="https://img.shields.io/github/search/sarfarazabbas3/sarfarazabbas3?style=for-the-badge&logo=github&label=REPOS&color=a855f7&labelColor=0A192F&query=user%3Asarfarazabbas3" />
+  <img src="https://img.shields.io/github/created-at/sarfarazabbas3/sarfarazabbas3?style=for-the-badge&logo=github&label=PROFILE%20SINCE&color=00ff88&labelColor=0A192F" />
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sarfarazabbas3&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F7FF&title_color=00F7FF&count_private=true&bg_color=0A192F" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazabbas3&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&bg_color=0A192F" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=sarfarazabbas3&theme=tokyonight&hide_border=true&border_radius=12&background=0A192F&ring=00F7FF&fire=ff2e63&currStreakLabel=00F7FF" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarfarazabbas3&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F7FF&title_color=00F7FF&bg_color=0A192F&border_radius=12" />
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=sarfarazabbas3&theme=tokyonight&hide_border=true&ring=00F7FF&fire=ff2e63&currStreakLabel=00F7FF&background=0A192F" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarfarazabbas3&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&bg_color=0A192F&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfarazabbas3&theme=react-dark&area=true&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true&bg_color=0A192F&custom_title=%E2%9A%A1%20Agent%20Activity%20Log" width="97%"/>
+  <img src="https://ghchart.rshah.org/00F7FF/sarfarazabbas3" width="95%" alt="Contribution chart" />
 </p>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
