@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.gif" alt="Sarfaraz Abbas - Cyber Security Researcher" width="100%" />
+<img src="./assets/header.svg" alt="Sarfaraz Abbas - Cyber Security Researcher" width="100%" />
 
 <br/>
 
-<img src="./assets/marquee.gif" alt="Skills" width="100%" />
+<img src="./assets/marquee.svg" alt="Skills" width="100%" />
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 </div>
 
-<img src="./assets/divider.gif" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## About
+<img src="./assets/h-about.svg" width="100%" alt="About" />
 
 I'm a **Cyber Security Researcher** and **Full Stack Engineer** at **NED University**, Karachi. I build web applications on the MERN stack and then examine them the way an attacker would, so security is designed in from the start rather than added at the end.
 
@@ -29,40 +29,42 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 > Defence first. Authorized targets only. Responsible disclosure.
 
 <div align="center">
-<img src="./assets/terminal.gif" alt="Animated terminal" width="100%" />
+<img src="./assets/terminal.svg" alt="Animated terminal" width="100%" />
+<br/><br/>
+<img src="./assets/network.svg" alt="Threat surface map" width="100%" />
 </div>
 
-<img src="./assets/divider.gif" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Focus Areas
+<img src="./assets/h-focus.svg" width="100%" alt="Focus Areas" />
 
 <div align="center">
-<img src="./assets/radar.gif" alt="Focus areas radar" width="100%" />
+<img src="./assets/radar.svg" alt="Focus areas radar" width="100%" />
 </div>
 
-<img src="./assets/divider.gif" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Tech Stack
+<img src="./assets/h-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">
-<img src="./assets/techstack.gif" alt="Tech stack" width="100%" />
+<img src="./assets/techstack.svg" alt="Tech stack" width="100%" />
 </div>
 
-<img src="./assets/divider.gif" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Methodology
+<img src="./assets/h-method.svg" width="100%" alt="Methodology" />
 
 <div align="center">
-<img src="./assets/methodology.gif" alt="Methodology" width="100%" />
+<img src="./assets/methodology.svg" alt="Methodology" width="100%" />
 </div>
 
-<img src="./assets/divider.gif" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## GitHub Analytics
+<img src="./assets/h-analytics-title.svg" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
 
-<img src="./assets/analytics.gif" alt="Live activity monitor" width="100%" />
+<img src="./assets/analytics.svg" alt="Live activity monitor" width="100%" />
 
 <br/><br/>
 
@@ -80,20 +82,18 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 </div>
 
-<img src="./assets/divider.gif" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Roadmap
+<img src="./assets/h-roadmap-title.svg" width="100%" alt="Roadmap" />
 
 <div align="center">
-<img src="./assets/roadmap.gif" alt="Roadmap" width="100%" />
+<img src="./assets/roadmap.svg" alt="Roadmap" width="100%" />
 </div>
-
-<div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=15&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=%22The+best+defence+is+understanding+the+attack.%22;%22Let%27s+build+something+unbreakable.%22" />
+<div align="center">
 
-<img src="./assets/divider.gif" width="100%" alt="" />
+<a href="https://www.linkedin.com/in/sarfaraz-abbas-977a47b7/"><img src="./assets/footer.svg" alt="Establish connection" width="100%" /></a>
 
 </div>
