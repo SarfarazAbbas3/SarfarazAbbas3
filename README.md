@@ -28,52 +28,17 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 > Defence first. Authorized targets only. Responsible disclosure.
 
+<div align="center">
+<img src="./assets/terminal.svg" alt="Animated terminal" width="100%" />
+</div>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Focus Areas
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**🛡️ Threat Intelligence**<br/>
-<sub>Vulnerability research, CVE tracking, attack-surface analysis</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**🔍 Secure Code Review**<br/>
-<sub>OWASP Top 10 audits for MERN and Next.js applications</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**⚔️ Penetration Testing**<br/>
-<sub>CTFs, labs and authorized web application assessments</sub>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**☁️ Cloud Security**<br/>
-<sub>AWS, Docker and Firebase hardening, IAM, least privilege</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**🔁 DevSecOps**<br/>
-<sub>Security checks inside CI/CD pipelines and automation</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**🧬 AI Security**<br/>
-<sub>LLM attack surface, prompt injection, agent safety</sub>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/radar.svg" alt="Focus areas radar" width="100%" />
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -98,21 +63,9 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 ## Methodology
 
-```mermaid
-flowchart LR
-    A([Scope]) --> B[Recon]
-    B --> C[Threat Model]
-    C --> D[Test]
-    D --> E[Remediate]
-    E --> F[Report]
-    F -. feedback .-> B
-    style A fill:#0d1117,stroke:#38bdf8,color:#e6edf3
-    style B fill:#0d1117,stroke:#38bdf8,color:#e6edf3
-    style C fill:#0d1117,stroke:#818cf8,color:#e6edf3
-    style D fill:#0d1117,stroke:#f43f5e,color:#e6edf3
-    style E fill:#0d1117,stroke:#22c55e,color:#e6edf3
-    style F fill:#0d1117,stroke:#facc15,color:#e6edf3
-```
+<div align="center">
+<img src="./assets/methodology.svg" alt="Methodology" width="100%" />
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -120,9 +73,13 @@ flowchart LR
 
 <div align="center">
 
+<img src="https://img.shields.io/github/followers/sarfarazabbas3?style=for-the-badge&logo=github&label=FOLLOWERS&color=38bdf8&labelColor=161b22" />
+<img src="https://img.shields.io/github/stars/sarfarazabbas3?style=for-the-badge&logo=github&label=STARS&color=f43f5e&labelColor=161b22&affiliations=OWNER" />
+<img src="https://img.shields.io/github/search/sarfarazabbas3/sarfarazabbas3?style=for-the-badge&logo=github&label=REPOS&color=818cf8&labelColor=161b22&query=user%3Asarfarazabbas3" />
+
+<br/><br/>
+
 <img height="170" src="https://streak-stats.demolab.com/?user=sarfarazabbas3&theme=dark&hide_border=true&border_radius=12&background=0d1117&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=8b949e" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarfarazabbas3&show_icons=true&theme=dark&hide_border=true&icon_color=38bdf8&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&border_radius=12" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarfarazabbas3&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&border_radius=12" />
 
 <br/><br/>
 
