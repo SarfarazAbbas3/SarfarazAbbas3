@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Sarfaraz Abbas - Cyber Security Researcher" width="100%" />
+<img src="./assets/header.gif" alt="Sarfaraz Abbas - Cyber Security Researcher" width="100%" />
 
 <br/>
 
-<img src="./assets/marquee.svg" alt="Skills" width="100%" />
+<img src="./assets/marquee.gif" alt="Skills" width="100%" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.gif" width="100%" alt="" />
 
 ## About
 
@@ -29,49 +29,42 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 > Defence first. Authorized targets only. Responsible disclosure.
 
 <div align="center">
-<img src="./assets/terminal.svg" alt="Animated terminal" width="100%" />
+<img src="./assets/terminal.gif" alt="Animated terminal" width="100%" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.gif" width="100%" alt="" />
 
 ## Focus Areas
 
 <div align="center">
-<img src="./assets/radar.svg" alt="Focus areas radar" width="100%" />
+<img src="./assets/radar.gif" alt="Focus areas radar" width="100%" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.gif" width="100%" alt="" />
 
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,python,php,mongodb,firebase,docker,aws,linux,bash,git,github,figma&theme=dark&perline=9" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2f2f2f?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
-
+<img src="./assets/techstack.gif" alt="Tech stack" width="100%" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.gif" width="100%" alt="" />
 
 ## Methodology
 
 <div align="center">
-<img src="./assets/methodology.svg" alt="Methodology" width="100%" />
+<img src="./assets/methodology.gif" alt="Methodology" width="100%" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.gif" width="100%" alt="" />
 
 ## GitHub Analytics
 
 <div align="center">
+
+<img src="./assets/analytics.gif" alt="Live activity monitor" width="100%" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/github/followers/sarfarazabbas3?style=for-the-badge&logo=github&label=FOLLOWERS&color=38bdf8&labelColor=161b22" />
 <img src="https://img.shields.io/github/stars/sarfarazabbas3?style=for-the-badge&logo=github&label=STARS&color=f43f5e&labelColor=161b22&affiliations=OWNER" />
@@ -83,26 +76,17 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/38bdf8/sarfarazabbas3" width="95%" alt="Contribution chart" />
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/SarfarazAbbas3/SarfarazAbbas3/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.gif" width="100%" alt="" />
 
 ## Roadmap
 
-| Goal | Status |
-|:--|:--:|
-| Build secure MERN-stack applications | ✅ Done |
-| Practice ethical hacking in lab environments | ✅ Ongoing |
-| AI-assisted vulnerability scanner | 🔄 In progress |
-| Publish security research write-ups | 🕐 Planned |
-| Contribute to open-source security tools | 🕐 Planned |
-| CEH / OSCP / Security+ certifications | 🎯 Target |
+<div align="center">
+<img src="./assets/roadmap.gif" alt="Roadmap" width="100%" />
+</div>
 
 <div align="center">
 
@@ -110,6 +94,6 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=15&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=%22The+best+defence+is+understanding+the+attack.%22;%22Let%27s+build+something+unbreakable.%22" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.gif" width="100%" alt="" />
 
 </div>
