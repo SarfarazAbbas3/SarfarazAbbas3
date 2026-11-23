@@ -20,7 +20,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-about.svg" width="100%" alt="About" />
+## About
 
 I'm a **Cyber Security Researcher** and **Full Stack Engineer** at **NED University**, Karachi. I build web applications on the MERN stack and then examine them the way an attacker would, so security is designed in from the start rather than added at the end.
 
@@ -30,13 +30,11 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 <div align="center">
 <img src="./assets/terminal.svg" alt="Animated terminal" width="100%" />
-<br/><br/>
-<img src="./assets/network.svg" alt="Threat surface map" width="100%" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-focus.svg" width="100%" alt="Focus Areas" />
+## Focus Areas
 
 <div align="center">
 <img src="./assets/radar.svg" alt="Focus areas radar" width="100%" />
@@ -44,7 +42,7 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-stack.svg" width="100%" alt="Tech Stack" />
+## Tech Stack
 
 <div align="center">
 <img src="./assets/techstack.svg" alt="Tech stack" width="100%" />
@@ -52,7 +50,7 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-method.svg" width="100%" alt="Methodology" />
+## Methodology
 
 <div align="center">
 <img src="./assets/methodology.svg" alt="Methodology" width="100%" />
@@ -60,7 +58,7 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-analytics-title.svg" width="100%" alt="GitHub Analytics" />
+## GitHub Analytics
 
 <div align="center">
 
@@ -84,16 +82,18 @@ My work sits between **secure development**, **ethical hacking** and **cloud / D
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-roadmap-title.svg" width="100%" alt="Roadmap" />
+## Roadmap
 
 <div align="center">
 <img src="./assets/roadmap.svg" alt="Roadmap" width="100%" />
 </div>
 
-<br/>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sarfaraz-abbas-977a47b7/"><img src="./assets/footer.svg" alt="Establish connection" width="100%" /></a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=15&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=%22The+best+defence+is+understanding+the+attack.%22;%22Let%27s+build+something+unbreakable.%22" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
