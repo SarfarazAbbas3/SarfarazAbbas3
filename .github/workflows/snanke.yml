@@ -1,0 +1,18 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@master
+        with:
+          github_user_name: SarfarazAbbas3
+          outputs: dist/github-contribution-grid-snake.svg
