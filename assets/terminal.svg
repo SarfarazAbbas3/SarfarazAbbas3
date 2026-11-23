@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Animated terminal">
+  <rect width="1200" height="330" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="329" rx="14" fill="none" stroke="#38bdf8" stroke-opacity="0.3"/>
+  <path d="M0 14 A14 14 0 0 1 14 0 H1186 A14 14 0 0 1 1200 14 V44 H0 Z" fill="#161b22"/>
+  <circle cx="28" cy="22" r="7" fill="#f43f5e"/>
+  <circle cx="52" cy="22" r="7" fill="#facc15"/>
+  <circle cx="76" cy="22" r="7" fill="#22c55e"/>
+  <text x="600" y="27" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b949e">sarfaraz@cyber-lab: ~/profile</text>
+
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19">
+    <text x="30" y="90" fill="#22c55e" opacity="0">$ whoami
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.05;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <text x="30" y="120" fill="#e6edf3" opacity="0">  Sarfaraz Abbas - Cyber Security Researcher
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.11;0.12;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <text x="30" y="160" fill="#22c55e" opacity="0">$ cat mission.txt
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.19;0.2;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <text x="30" y="190" fill="#38bdf8" opacity="0">  Build secure systems. Hack ethically. Defend by design.
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.27;0.28;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <text x="30" y="230" fill="#22c55e" opacity="0">$ ./scan --scope authorized
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.36;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <text x="30" y="260" fill="#e6edf3" opacity="0">  [OK] recon   [OK] threat-model   [OK] test   [OK] report
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.43;0.44;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <text x="30" y="300" fill="#22c55e" opacity="0">$ status
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.51;0.52;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <text x="140" y="300" fill="#facc15" opacity="0">ALL SYSTEMS ONLINE
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.59;0.6;0.95;1" dur="16s" repeatCount="indefinite"/></text>
+    <rect x="398" y="283" width="11" height="20" fill="#38bdf8" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;1;0" keyTimes="0;0.6;0.65;0.7;0.75;0.8;0.85;0.88;0.9;0.95;1" dur="16s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

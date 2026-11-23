@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Methodology: Scope, Recon, Threat Model, Test, Remediate, Report">
+  <defs>
+    <radialGradient id="pk" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.3" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <path id="main" d="M100 95 H1050"/>
+  </defs>
+
+  <rect width="1200" height="230" rx="16" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="229" rx="16" fill="none" stroke="#38bdf8" stroke-opacity="0.25"/>
+
+  <!-- main rail -->
+  <path d="M100 95 H1050" stroke="#30363d" stroke-width="2"/>
+  <path d="M100 95 H1050" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="8 10">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="1.2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- feedback loop -->
+  <path d="M1050 126 V190 H290 V126" fill="none" stroke="#818cf8" stroke-opacity="0.7" stroke-width="2" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="1.4s" repeatCount="indefinite"/>
+  </path>
+  <rect x="535" y="176" width="130" height="26" rx="13" fill="#0d1117" stroke="#818cf8" stroke-opacity="0.6"/>
+  <text x="600" y="194" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#a5b4fc" letter-spacing="2">FEEDBACK</text>
+
+  <!-- nodes -->
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+    <g>
+      <rect x="25" y="67" width="150" height="56" rx="12" fill="#0d1117" stroke="#38bdf8" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="1;0.25;0.25;0.25;0.25;0.25;1" keyTimes="0;0.08;0.16;0.5;0.8;0.95;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="100" y="52" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,monospace" letter-spacing="2">01</text>
+      <text x="100" y="101" fill="#e6edf3" font-size="18" font-weight="600">Scope</text>
+    </g>
+    <g>
+      <rect x="215" y="67" width="150" height="56" rx="12" fill="#0d1117" stroke="#22d3ee" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.25;1;0.25;0.25;0.25;0.25;0.25" keyTimes="0;0.17;0.33;0.5;0.8;0.95;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="290" y="52" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,monospace" letter-spacing="2">02</text>
+      <text x="290" y="101" fill="#e6edf3" font-size="18" font-weight="600">Recon</text>
+    </g>
+    <g>
+      <rect x="405" y="67" width="150" height="56" rx="12" fill="#0d1117" stroke="#818cf8" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.25;0.25;1;0.25;0.25;0.25;0.25" keyTimes="0;0.17;0.33;0.5;0.8;0.95;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="480" y="52" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,monospace" letter-spacing="2">03</text>
+      <text x="480" y="101" fill="#e6edf3" font-size="18" font-weight="600">Threat Model</text>
+    </g>
+    <g>
+      <rect x="595" y="67" width="150" height="56" rx="12" fill="#0d1117" stroke="#f43f5e" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.25;0.25;0.25;1;0.25;0.25;0.25" keyTimes="0;0.33;0.5;0.58;0.7;0.95;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="670" y="52" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,monospace" letter-spacing="2">04</text>
+      <text x="670" y="101" fill="#e6edf3" font-size="18" font-weight="600">Test</text>
+    </g>
+    <g>
+      <rect x="785" y="67" width="150" height="56" rx="12" fill="#0d1117" stroke="#22c55e" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.25;0.25;0.25;0.25;1;0.25;0.25" keyTimes="0;0.5;0.6;0.66;0.75;0.9;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="860" y="52" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,monospace" letter-spacing="2">05</text>
+      <text x="860" y="101" fill="#e6edf3" font-size="18" font-weight="600">Remediate</text>
+    </g>
+    <g>
+      <rect x="975" y="67" width="150" height="56" rx="12" fill="#0d1117" stroke="#facc15" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.25;0.25;0.25;0.25;0.25;1;0.25" keyTimes="0;0.5;0.7;0.8;0.85;0.95;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="1050" y="52" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,monospace" letter-spacing="2">06</text>
+      <text x="1050" y="101" fill="#e6edf3" font-size="18" font-weight="600">Report</text>
+    </g>
+  </g>
+
+  <!-- travelling packet -->
+  <circle r="11" fill="url(#pk)">
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#main"/>
+    </animateMotion>
+  </circle>
+</svg>

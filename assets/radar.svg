@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Focus areas radar">
+  <defs>
+    <linearGradient id="wedge" gradientUnits="userSpaceOnUse" x1="300" y1="220" x2="470" y2="220">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="bgglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="440" rx="16" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="439" rx="16" fill="none" stroke="#38bdf8" stroke-opacity="0.25"/>
+
+  <!-- radar -->
+  <circle cx="300" cy="220" r="190" fill="url(#bgglow)"/>
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.3">
+    <circle cx="300" cy="220" r="57"/>
+    <circle cx="300" cy="220" r="113"/>
+    <circle cx="300" cy="220" r="170"/>
+    <path d="M130 220 H470 M300 50 V390"/>
+    <path d="M180 100 L420 340 M420 100 L180 340" stroke-opacity="0.12"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 300 220" to="360 300 220" dur="6s" repeatCount="indefinite"/>
+    <path d="M300 220 L470 220 A170 170 0 0 0 439.3 122.5 Z" fill="url(#wedge)"/>
+    <path d="M300 220 L470 220" stroke="#7dd3fc" stroke-width="2"/>
+  </g>
+
+  <!-- blips -->
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6edf3">
+    <g>
+      <circle cx="410" cy="150" r="5" fill="#38bdf8"/>
+      <circle cx="410" cy="150" r="5" fill="none" stroke="#38bdf8"><animate attributeName="r" values="5;20;5" dur="3s" begin="0.2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3s" begin="0.2s" repeatCount="indefinite"/></circle>
+      <text x="422" y="144">WEB</text>
+    </g>
+    <g>
+      <circle cx="230" cy="130" r="5" fill="#818cf8"/>
+      <circle cx="230" cy="130" r="5" fill="none" stroke="#818cf8"><animate attributeName="r" values="5;20;5" dur="3s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3s" begin="0.9s" repeatCount="indefinite"/></circle>
+      <text x="170" y="124">CLOUD</text>
+    </g>
+    <g>
+      <circle cx="372" cy="296" r="5" fill="#22c55e"/>
+      <circle cx="372" cy="296" r="5" fill="none" stroke="#22c55e"><animate attributeName="r" values="5;20;5" dur="3s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
+      <text x="384" y="300">DEVSECOPS</text>
+    </g>
+    <g>
+      <circle cx="190" cy="262" r="5" fill="#f43f5e"/>
+      <circle cx="190" cy="262" r="5" fill="none" stroke="#f43f5e"><animate attributeName="r" values="5;20;5" dur="3s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3s" begin="2.1s" repeatCount="indefinite"/></circle>
+      <text x="136" y="286">AI SEC</text>
+    </g>
+    <g>
+      <circle cx="318" cy="98" r="5" fill="#facc15"/>
+      <circle cx="318" cy="98" r="5" fill="none" stroke="#facc15"><animate attributeName="r" values="5;20;5" dur="3s" begin="2.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3s" begin="2.6s" repeatCount="indefinite"/></circle>
+      <text x="332" y="94">PENTEST</text>
+    </g>
+    <g>
+      <circle cx="262" cy="336" r="5" fill="#22d3ee"/>
+      <circle cx="262" cy="336" r="5" fill="none" stroke="#22d3ee"><animate attributeName="r" values="5;20;5" dur="3s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3s" begin="0.5s" repeatCount="indefinite"/></circle>
+      <text x="150" y="354">CODE REVIEW</text>
+    </g>
+  </g>
+  <circle cx="300" cy="220" r="4" fill="#7dd3fc"/>
+
+  <!-- legend -->
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="640" y="70" fill="#8b949e" font-size="14" font-family="'SFMono-Regular',Consolas,monospace" letter-spacing="3">// FOCUS AREAS</text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.6s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="0.3s" dur="0.6s" fill="freeze"/>
+      <circle cx="652" cy="116" r="7" fill="#38bdf8"/>
+      <text x="676" y="112" fill="#e6edf3" font-size="19" font-weight="600">Web Application Security</text>
+      <text x="676" y="132" fill="#8b949e" font-size="14">OWASP Top 10, auth, injection, access control</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.6s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="0.7s" dur="0.6s" fill="freeze"/>
+      <circle cx="652" cy="178" r="7" fill="#818cf8"/>
+      <text x="676" y="174" fill="#e6edf3" font-size="19" font-weight="600">Cloud Security</text>
+      <text x="676" y="194" fill="#8b949e" font-size="14">AWS, Docker, Firebase, IAM, least privilege</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.6s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="1.1s" dur="0.6s" fill="freeze"/>
+      <circle cx="652" cy="240" r="7" fill="#22c55e"/>
+      <text x="676" y="236" fill="#e6edf3" font-size="19" font-weight="600">DevSecOps</text>
+      <text x="676" y="256" fill="#8b949e" font-size="14">Security checks in CI/CD pipelines</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.6s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="1.5s" dur="0.6s" fill="freeze"/>
+      <circle cx="652" cy="302" r="7" fill="#f43f5e"/>
+      <text x="676" y="298" fill="#e6edf3" font-size="19" font-weight="600">AI Security</text>
+      <text x="676" y="318" fill="#8b949e" font-size="14">LLM attack surface, prompt injection, agent safety</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.6s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-24 0" to="0 0" begin="1.9s" dur="0.6s" fill="freeze"/>
+      <circle cx="652" cy="364" r="7" fill="#facc15"/>
+      <text x="676" y="360" fill="#e6edf3" font-size="19" font-weight="600">Penetration Testing</text>
+      <text x="676" y="380" fill="#8b949e" font-size="14">CTFs, labs and authorized assessments</text>
+    </g>
+  </g>
+</svg>
